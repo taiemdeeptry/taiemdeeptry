@@ -11,4 +11,4 @@
 
 ## Visitor Count
 
-![Visitor Count](https://profile-counter.glitch.me/idaka123/count.svg)
+![Visitor Count](https://profile-counter.glitch.me/taiemdeeptry/count.svg)
